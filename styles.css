@@ -38,14 +38,14 @@ h1 {
     text-align: center;
     font-family: "MCBold", sans-serif;
     margin: 10px 0;
-    text-shadow: 3px 3px rgba(63,63,63,1)
+    text-shadow: 3px 3px rgb(32, 32, 32)
 }
 
 h2 {
     color: white;
     font-family: "MCBoldItalic", sans-serif;
     margin: 10px 0;
-    text-shadow: 3px 3px rgba(63,63,63,1)
+    text-shadow: 2px 2px rgb(32, 32, 32)
 }
 
 h3 {
@@ -53,7 +53,7 @@ h3 {
     text-align: center;
     font-family: "MCBold", sans-serif;
     margin: 10px 0;
-    text-shadow: 2px 2px rgba(63,63,63,1)
+    text-shadow: 2px 2px rgb(32, 32, 32 )
 }
 
 p {
@@ -62,7 +62,11 @@ p {
     text-align: center;
     margin: 5px 0;
     color: white;
-    text-shadow: 2px 2px rgba(63,63,63,1)
+    text-shadow: 2px 2px rgb(32, 32, 32)
+}
+
+.left {
+    text-align: left;
 }
 
 .top-bar {
@@ -97,6 +101,8 @@ p {
     text-decoration: underline;
     font-family: "MCBoldItalic", monospace;
 }
+
+
 
 .minecraft-title {
     position: absolute;
